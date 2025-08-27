@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|solutionrelative:users.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\test\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|solutionrelative:test\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|solutionrelative:users.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\test\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|solutionrelative:test\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.infrastructure\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|solutionrelative:users.infrastructure\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\test\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|solutionrelative:test\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\test\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|solutionrelative:test\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\test\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|solutionrelative:test\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|solutionrelative:users.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\services\\sucursalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\services\\sucursalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|solutionrelative:users.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\interfaces\\isucursaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\interfaces\\isucursaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,32 +66,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SucursalesController.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\SucursalesController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\SucursalesController.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\SucursalesController.cs",
+              "RelativeToolTip": "Test\\Controllers\\SucursalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:06:31.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Test\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:06:12.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Test\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:05:52.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Test\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:03:53.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "Users.Application\\Services\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\EmpleadoService.cs",
+              "RelativeToolTip": "Users.Application\\Services\\EmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:44:48.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SucursalService.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\SucursalService.cs",
+              "RelativeDocumentMoniker": "Users.Application\\Services\\SucursalService.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\SucursalService.cs",
+              "RelativeToolTip": "Users.Application\\Services\\SucursalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:45:13.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Users.Infrastructure\\DependencyInjection.cs",
               "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\DependencyInjection.cs",
               "RelativeToolTip": "Users.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T20:44:16.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Users.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Users.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAMwHIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T20:42:14.683Z",
+              "WhenOpened": "2025-08-27T22:45:33.443Z",
               "EditorCaption": ""
             },
             {
@@ -78,74 +167,87 @@
               "RelativeDocumentMoniker": "Test\\Program.cs",
               "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Program.cs",
               "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T20:41:53.349Z",
+              "WhenOpened": "2025-08-27T22:45:59.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VentasController.cs",
-              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\VentasController.cs",
-              "RelativeDocumentMoniker": "Test\\Controllers\\VentasController.cs",
-              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\VentasController.cs",
-              "RelativeToolTip": "Test\\Controllers\\VentasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Users.Application\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Users.Application\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T20:41:29.694Z",
+              "WhenOpened": "2025-08-27T22:48:39.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Repositories\\VentaRepository.cs",
-              "RelativeDocumentMoniker": "Users.Infrastructure\\Repositories\\VentaRepository.cs",
-              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Repositories\\VentaRepository.cs",
-              "RelativeToolTip": "Users.Infrastructure\\Repositories\\VentaRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAD4vwgAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Users.Application\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Users.Application\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T20:40:51.319Z",
+              "WhenOpened": "2025-08-27T22:50:25.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VentaService.cs",
-              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\VentaService.cs",
-              "RelativeDocumentMoniker": "Users.Application\\Services\\VentaService.cs",
-              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\VentaService.cs",
-              "RelativeToolTip": "Users.Application\\Services\\VentaService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswA4AAABDAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Users.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Users.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T20:39:11.748Z",
+              "WhenOpened": "2025-08-27T22:49:06.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IVentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\IVentaRepository.cs",
-              "RelativeDocumentMoniker": "Users.Application\\Interfaces\\IVentaRepository.cs",
-              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\IVentaRepository.cs",
-              "RelativeToolTip": "Users.Application\\Interfaces\\IVentaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Users.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Users.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T20:38:03.93Z",
+              "WhenOpened": "2025-08-27T22:48:09.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VentaDto.cs",
-              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\DTOs\\VentaDto.cs",
-              "RelativeDocumentMoniker": "Users.Application\\DTOs\\VentaDto.cs",
-              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\DTOs\\VentaDto.cs",
-              "RelativeToolTip": "Users.Application\\DTOs\\VentaDto.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ISucursaService.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\ISucursaService.cs",
+              "RelativeDocumentMoniker": "Users.Application\\Interfaces\\ISucursaService.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\ISucursaService.cs",
+              "RelativeToolTip": "Users.Application\\Interfaces\\ISucursaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T20:37:16.614Z",
+              "WhenOpened": "2025-08-27T22:44:59.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "Users.Application\\Interfaces\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\IEmpleadoService.cs",
+              "RelativeToolTip": "Users.Application\\Interfaces\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:44:27.426Z",
               "EditorCaption": ""
             }
           ]

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\test\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|solutionrelative:test\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|solutionrelative:users.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.infrastructure\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|solutionrelative:users.infrastructure\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\test\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17E9390-1C08-4B27-B7AA-51AE7B848412}|Test\\Test.Api.csproj|solutionrelative:test\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|solutionrelative:users.application\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AA175B9-78CD-4CB3-8BA2-2157392DAA2E}|Users.Application\\Application.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.application\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|solutionrelative:users.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0089B2B-9D63-44CE-83E8-008E1037C5E6}|Users.Infrastructure\\Infrastructure.csproj|solutionrelative:users.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D2194E8-B65B-46E3-AECD-88046BBA5043}|Users.Domain\\Domain.csproj|c:\\users\\agusf\\onedrive\\desktop\\test_cartas\\src\\backend\\users.domain\\entitties\\ventadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,37 +170,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "VentasController.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\VentasController.cs",
               "RelativeDocumentMoniker": "Test\\Controllers\\VentasController.cs",
-              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\VentasController.cs*",
-              "RelativeToolTip": "Test\\Controllers\\VentasController.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowCkAAAAGAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Test\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T14:56:56.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T14:56:56.025Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EmpleadosController.cs",
-              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\EmpleadosController.cs",
-              "RelativeDocumentMoniker": "Test\\Controllers\\EmpleadosController.cs",
-              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\EmpleadosController.cs",
-              "RelativeToolTip": "Test\\Controllers\\EmpleadosController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAzwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:28:50.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "VentaDto.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\DTOs\\VentaDto.cs",
               "RelativeDocumentMoniker": "Users.Application\\DTOs\\VentaDto.cs",
@@ -208,12 +194,11 @@
               "RelativeToolTip": "Users.Application\\DTOs\\VentaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:26:11.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:26:11.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IVentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\IVentaRepository.cs",
               "RelativeDocumentMoniker": "Users.Application\\Interfaces\\IVentaRepository.cs",
@@ -221,12 +206,11 @@
               "RelativeToolTip": "Users.Application\\Interfaces\\IVentaRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAzwBIAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:26:36.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:26:36.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IVentaService.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\IVentaService.cs",
               "RelativeDocumentMoniker": "Users.Application\\Interfaces\\IVentaService.cs",
@@ -234,38 +218,60 @@
               "RelativeToolTip": "Users.Application\\Interfaces\\IVentaService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:26:38.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:26:38.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "VentaService.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\VentaService.cs",
               "RelativeDocumentMoniker": "Users.Application\\Services\\VentaService.cs",
               "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\VentaService.cs",
               "RelativeToolTip": "Users.Application\\Services\\VentaService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAowDsAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:26:58.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:26:58.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Repositories\\VentaRepository.cs",
               "RelativeDocumentMoniker": "Users.Infrastructure\\Repositories\\VentaRepository.cs",
               "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Repositories\\VentaRepository.cs",
               "RelativeToolTip": "Users.Infrastructure\\Repositories\\VentaRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwEQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:28:38.791Z",
+              "WhenOpened": "2025-08-28T06:28:38.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Users.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Users.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:28:13.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Test\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:28:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EmpleadoRepository.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Repositories\\EmpleadoRepository.cs",
               "RelativeDocumentMoniker": "Users.Infrastructure\\Repositories\\EmpleadoRepository.cs",
@@ -273,12 +279,11 @@
               "RelativeToolTip": "Users.Infrastructure\\Repositories\\EmpleadoRepository.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAQwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:28:20.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:28:20.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EmpleadoService.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\EmpleadoService.cs",
               "RelativeDocumentMoniker": "Users.Application\\Services\\EmpleadoService.cs",
@@ -286,12 +291,11 @@
               "RelativeToolTip": "Users.Application\\Services\\EmpleadoService.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAA5wDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:26:54.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:26:54.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IEmpleadoRepository.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\IEmpleadoRepository.cs",
               "RelativeDocumentMoniker": "Users.Application\\Interfaces\\IEmpleadoRepository.cs",
@@ -299,12 +303,11 @@
               "RelativeToolTip": "Users.Application\\Interfaces\\IEmpleadoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:26:23.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:26:23.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IEmpleadoService.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Interfaces\\IEmpleadoService.cs",
               "RelativeDocumentMoniker": "Users.Application\\Interfaces\\IEmpleadoService.cs",
@@ -312,12 +315,11 @@
               "RelativeToolTip": "Users.Application\\Interfaces\\IEmpleadoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:26:24.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:26:24.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "EmpleadoDtos.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\DTOs\\EmpleadoDtos.cs",
               "RelativeDocumentMoniker": "Users.Application\\DTOs\\EmpleadoDtos.cs",
@@ -325,12 +327,11 @@
               "RelativeToolTip": "Users.Application\\DTOs\\EmpleadoDtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:26:09.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:26:09.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Domain\\Entitties\\Empleado.cs",
               "RelativeDocumentMoniker": "Users.Domain\\Entitties\\Empleado.cs",
@@ -338,12 +339,11 @@
               "RelativeToolTip": "Users.Domain\\Entitties\\Empleado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:27:31.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:27:31.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Domain\\Entitties\\Producto.cs",
               "RelativeDocumentMoniker": "Users.Domain\\Entitties\\Producto.cs",
@@ -351,12 +351,11 @@
               "RelativeToolTip": "Users.Domain\\Entitties\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:27:38.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:27:38.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Users.Application\\Services\\AuthService.cs",
@@ -364,12 +363,11 @@
               "RelativeToolTip": "Users.Application\\Services\\AuthService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:26:40.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T06:26:40.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "Test\\Controllers\\ProductosController.cs",
@@ -381,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "SucursalesController.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\SucursalesController.cs",
               "RelativeDocumentMoniker": "Test\\Controllers\\SucursalesController.cs",
@@ -393,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Test\\Controllers\\ClientesController.cs",
@@ -405,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Test\\Controllers\\AuthController.cs",
@@ -417,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
@@ -429,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "Users.Infrastructure\\Repositories\\UsuarioRepository.cs",
@@ -441,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Users.Infrastructure\\Repositories\\Repository.cs",
@@ -450,18 +448,6 @@
               "ViewState": "AgIAABoAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T06:28:27.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Users.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\agusf\\OneDrive\\Desktop\\Test_CartaS\\SRC\\Backend\\Users.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Users.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:28:13.674Z"
             },
             {
               "$type": "Document",

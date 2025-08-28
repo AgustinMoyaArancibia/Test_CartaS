@@ -1,1 +1,59 @@
-<p>login works!</p>
+<p-toast></p-toast>
+
+<div class="login-wrap">
+  <p-card class="w-full max-w-24rem">
+    <ng-template pTemplate="title">
+      <div class="flex align-items-center gap-2">
+        <i class="pi pi-user"></i>
+        <span>Iniciar sesión</span>
+      </div>
+    </ng-template>
+
+    <form (ngSubmit)="submit()" [formGroup]="form" class="flex flex-column gap-3">
+
+   
+      <div class="flex flex-column gap-2">
+        <label for="nombre">Usuario</label>
+        <input
+          id="nombre"
+          pInputText
+          type="text"
+          formControlName="nombre"
+          placeholder="admin" />
+
+        @if (form.controls.nombre.touched && form.controls.nombre.invalid) {
+          <small class="p-error">El usuario es requerido</small>
+        }
+      </div>
+
+
+      <div class="flex flex-column gap-2">
+        <label for="pass">Contraseña</label>
+        <p-password
+          inputId="pass"
+          [toggleMask]="true"
+          formControlName="pass"
+          placeholder="••••••••">
+        </p-password>
+
+        @if (form.controls.pass.touched && form.controls.pass.invalid) {
+          <small class="p-error">La contraseña es requerida</small>
+        }
+      </div>
+
+
+      <div class="flex align-items-center gap-2">
+        <p-checkbox binary="true" inputId="remember" formControlName="remember"></p-checkbox>
+        <label for="remember">Recordarme</label>
+      </div>
+
+      <p-button
+        type="submit"
+        label="Ingresar"
+        icon="pi pi-sign-in"
+        [loading]="loading">
+      </p-button>
+
+    </form>
+  </p-card>
+</div>

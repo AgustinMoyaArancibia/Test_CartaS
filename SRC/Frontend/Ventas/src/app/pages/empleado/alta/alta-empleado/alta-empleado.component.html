@@ -1,0 +1,19 @@
+
+<div class="flex flex-column gap-3 p-3">
+  <div class="flex flex-column gap-2">
+    <label>Nombre</label>
+    <input pInputText type="text" [formControl]="form.controls.nombre" />
+    @if (form.controls.nombre.invalid && form.controls.nombre.touched) {
+           <small  class="p-error">
+      Nombre requerido
+    </small>
+    }
+ 
+  </div>
+
+
+  <div class="flex justify-content-end gap-2 mt-3">
+    <p-button label="Cancelar" severity="secondary" (onClick)="cancelar()"></p-button>
+    <p-button label="Guardar" icon="pi pi-save" (onClick)="guardar()"></p-button>
+  </div>
+</div>

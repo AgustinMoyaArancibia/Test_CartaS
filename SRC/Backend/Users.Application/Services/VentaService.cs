@@ -42,7 +42,7 @@ namespace Application.Services
                     PrecioUnitario = d.PrecioUnitario
                 }).ToList()
             };
-            // calcular total desde los detalles
+     
             venta.ImporteTotal = venta.Detalles.Sum(d => d.Cantidad * d.PrecioUnitario);
 
             var created = await _repo.AddAsync(venta, ct);
@@ -61,7 +61,7 @@ namespace Application.Services
             return new FechaMaxVentasDto(fecha.Date, cantidad);
         }
 
-        // --- helpers ---
+      
         private static VentaDto MapToDto(Venta v)
             => new(
                 v.IdVenta,

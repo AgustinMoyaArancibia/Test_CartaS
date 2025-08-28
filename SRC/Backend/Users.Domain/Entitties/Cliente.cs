@@ -13,7 +13,7 @@ namespace Domain.Entitties
         public string Nombre { get; set; } = string.Empty;
         public string? DireccionEnvio { get; set; }
 
-        // Relaciones
+
         public ICollection<Venta> Ventas { get; set; } = new List<Venta>();
     }
 }

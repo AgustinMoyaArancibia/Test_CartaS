@@ -12,7 +12,7 @@ namespace Domain.Entitties
         public DateTime FechaVenta { get; set; }
         public decimal ImporteTotal { get; set; }
 
-        // Claves foráneas
+ 
         public int IdCliente { get; set; }
         public Cliente Cliente { get; set; } = null!;
 
@@ -22,7 +22,7 @@ namespace Domain.Entitties
         public int IdSucursal { get; set; }
         public Sucursal Sucursal { get; set; } = null!;
 
-        // Relaciones
+ 
         public ICollection<VentaDetalle> Detalles { get; set; } = new List<VentaDetalle>();
     }
 }

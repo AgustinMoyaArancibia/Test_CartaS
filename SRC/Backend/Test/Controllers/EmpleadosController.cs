@@ -12,8 +12,27 @@ public class EmpleadosController : ControllerBase
     public EmpleadosController(IEmpleadoService svc) => _svc = svc;
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<EmpleadoDto>>> GetAll([FromQuery] string? search, [FromQuery] int page = 1, [FromQuery] int size = 20, CancellationToken ct = default)
-        => Ok(await _svc.GetAllAsync(search, page, size, ct));
+    public async Task<IActionResult> GetAll(
+        [FromQuery] string? search,
+        [FromQuery] bool? activo,
+        [FromQuery] int page = 1,
+        [FromQuery] int size = 20,
+        CancellationToken ct = default)
+    {
+        var (items, total) = await _svc.GetAllAsync(search, activo, page, size, ct);
+
+
+        return Ok(new
+        {
+            data = items,
+            meta = new
+            {
+                total_registros = total,
+                page,
+                size
+            }
+        });
+    }
 
     [HttpGet("{id:int}")]
     public async Task<ActionResult<EmpleadoDto>> GetById(int id, CancellationToken ct)
@@ -22,7 +41,7 @@ public class EmpleadosController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<EmpleadoDto>> Create([FromBody] EmpleadoCreateDto dto, CancellationToken ct)
     {
-        var created = await _svc.CreateAsync(dto, ct);
+        var created = await _svc.CreateAsync(dto, ct); // ahora devuelve EmpleadoDto
         return CreatedAtAction(nameof(GetById), new { id = created.IdEmpleado }, created);
     }
 

@@ -11,7 +11,7 @@ namespace Domain.Entitties
         public int IdProducto { get; set; }
         public string Nombre { get; set; } = string.Empty;
 
-        // Relaciones
+ 
         public ICollection<VentaDetalle> VentaDetalles { get; set; } = new List<VentaDetalle>();
     }
 }

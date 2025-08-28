@@ -1,4 +1,5 @@
-﻿using Domain.Entitties;
+﻿using Domain.Entities;
+using Domain.Entitties;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -8,18 +9,27 @@ namespace Infrastructure.Data;
 public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {
 
-
+    public DbSet<Usuario> Usuarios => Set<Usuario>();
     public DbSet<Cliente> Clientes => Set<Cliente>();
     public DbSet<Empleado> Empleados => Set<Empleado>();
     public DbSet<Sucursal> Sucursales => Set<Sucursal>();
     public DbSet<Producto> Productos => Set<Producto>();
-    public DbSet<Venta> Ventas => Set<Venta>();        // map -> Ventas_N
+    public DbSet<Venta> Ventas => Set<Venta>();       
     public DbSet<VentaDetalle> VentaDetalles => Set<VentaDetalle>();
 
     protected override void OnModelCreating(ModelBuilder model)
     {
         base.OnModelCreating(model);
 
+        model.Entity<Usuario>(e =>
+        {
+            e.ToTable("Usuarios");
+            e.HasKey(x => x.IdUsuario);
+            e.Property(x => x.Nombre).HasMaxLength(50).IsRequired();
+            e.Property(x => x.Pass).HasMaxLength(500).IsRequired();
+        
+            e.HasIndex(x => x.Nombre).IsUnique();
+        });
         // === Clientes ===
         model.Entity<Cliente>(e =>
         {
@@ -43,11 +53,8 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
         {
             e.ToTable("Empleados");
             e.HasKey(x => x.IdEmpleado);
-            e.Property(x => x.Nombre)
-                .HasMaxLength(100)
-                .IsRequired();
-            e.Property(x => x.Activo)
-                .HasDefaultValue(true);
+            e.Property(x => x.Nombre).HasMaxLength(100).IsRequired();
+            e.Property(x => x.Activo).HasDefaultValue(true);
         });
 
         // === Sucursales ===

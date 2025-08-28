@@ -12,7 +12,7 @@ namespace Domain.Entitties
         public string Direccion { get; set; } = string.Empty;
         public string Nombre { get; set; } = string.Empty;
 
-        // Relaciones
+   
         public ICollection<Venta> Ventas { get; set; } = new List<Venta>();
     }
 }

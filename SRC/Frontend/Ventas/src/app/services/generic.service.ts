@@ -1,7 +1,8 @@
 import { Injectable } from '@angular/core';
 
-import { environment } from '../enviroments/environment.prod';
+
 import { ApiHandlerService } from './api-handler.service';
+import { environment } from '../enviroments/environment';
 
 
 @Injectable({

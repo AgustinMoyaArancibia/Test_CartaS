@@ -12,7 +12,7 @@ namespace Domain.Entitties
         public string Nombre { get; set; } = string.Empty;
         public bool Activo { get; set; } = true;
 
-        // Relaciones
+      
         public ICollection<Venta> Ventas { get; set; } = new List<Venta>();
     }
 }

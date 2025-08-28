@@ -1,0 +1,13 @@
+.login-wrap {
+  min-height: 100dvh;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+}
+.max-w-24rem { max-width: 24rem; }
+
+
+::ng-deep .p-inputtext {
+  
+    width: 20rem;
+}

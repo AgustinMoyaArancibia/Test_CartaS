@@ -1,58 +1,53 @@
 ﻿using Application.DTOs;
 using Application.Interfaces;
+using Domain.Entities;
 using Domain.Entitties;
-using Microsoft.EntityFrameworkCore;
 
-namespace Application.Services
+namespace Application.Services;
+
+public class EmpleadoService : IEmpleadoService
 {
-    public class EmpleadoService : IEmpleadoService
+    private readonly IEmpleadoRepository _repo;
+
+    public EmpleadoService(IEmpleadoRepository repo)
+        => _repo = repo;
+
+    public async Task<(IReadOnlyList<EmpleadoDto> Items, int Total)> GetAllAsync(
+        string? search, bool? activo, int page, int size, CancellationToken ct = default)
     {
-        private readonly IRepository<Empleado> _repo;
+        var (items, total) = await _repo.GetAllAsync(search, activo, page, size, ct);
 
-        public EmpleadoService(IRepository<Empleado> repo) => _repo = repo;
+        var dtos = items.Select(e => new EmpleadoDto(e.IdEmpleado, e.Nombre, e.Activo))
+                        .ToList()
+                        .AsReadOnly();
 
-        public async Task<IEnumerable<EmpleadoDto>> GetAllAsync(string? search, int page, int size, CancellationToken ct)
-        {
-            var q = _repo.Query();
-            if (!string.IsNullOrWhiteSpace(search))
-                q = q.Where(e => e.Nombre.Contains(search));
+        return (dtos, total);
+    }
 
-            return await q.OrderBy(e => e.IdEmpleado)
-                .Skip((page - 1) * size)
-                .Take(size)
-                .Select(e => new EmpleadoDto(e.IdEmpleado, e.Nombre, e.Activo))
-                .ToListAsync(ct);
-        }
+    public async Task<EmpleadoDto?> GetByIdAsync(int id, CancellationToken ct = default)
+    {
+        var entity = await _repo.GetByIdAsync(id, ct);
+        return entity is null ? null : new EmpleadoDto(entity.IdEmpleado, entity.Nombre, entity.Activo);
+    }
 
-        public Task<EmpleadoDto?> GetByIdAsync(int id, CancellationToken ct) =>
-            _repo.Query()
-                .Where(e => e.IdEmpleado == id)
-                .Select(e => new EmpleadoDto(e.IdEmpleado, e.Nombre, e.Activo))
-                .FirstOrDefaultAsync(ct);
+    public async Task<EmpleadoDto> CreateAsync(EmpleadoCreateDto req, CancellationToken ct = default)
+    {
+        var entity = new Empleado { Nombre = req.Nombre, Activo = req.Activo };
+        var created = await _repo.AddAsync(entity, ct);
+        return new EmpleadoDto(created.IdEmpleado, created.Nombre, created.Activo);
+    }
 
-        public async Task<EmpleadoDto> CreateAsync(EmpleadoCreateDto dto, CancellationToken ct)
-        {
-            var entity = new Empleado
-            {
-                Nombre = dto.Nombre,
-                Activo = dto.Activo
-            };
-            await _repo.AddAsync(entity, ct);
-            return new EmpleadoDto(entity.IdEmpleado, entity.Nombre, entity.Activo);
-        }
+    public async Task UpdateAsync(int id, EmpleadoUpdateDto req, CancellationToken ct = default)
+    {
+        var existing = await _repo.GetByIdAsync(id, ct) ?? throw new KeyNotFoundException("Empleado no encontrado");
+        existing.Nombre = req.Nombre;
+        existing.Activo = req.Activo;
+        await _repo.UpdateAsync(existing, ct);
+    }
 
-        public async Task UpdateAsync(int id, EmpleadoUpdateDto dto, CancellationToken ct)
-        {
-            var entity = await _repo.GetByIdAsync(id, ct) ?? throw new KeyNotFoundException("Empleado no encontrado");
-            entity.Nombre = dto.Nombre;
-            entity.Activo = dto.Activo;
-            await _repo.UpdateAsync(entity, ct);
-        }
-
-        public async Task DeleteAsync(int id, CancellationToken ct)
-        {
-            var entity = await _repo.GetByIdAsync(id, ct) ?? throw new KeyNotFoundException("Empleado no encontrado");
-            await _repo.DeleteAsync(entity, ct);
-        }
+    public async Task DeleteAsync(int id, CancellationToken ct = default)
+    {
+        var existing = await _repo.GetByIdAsync(id, ct) ?? throw new KeyNotFoundException("Empleado no encontrado");
+        await _repo.DeleteAsync(existing, ct);
     }
 }

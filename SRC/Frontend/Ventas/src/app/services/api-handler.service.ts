@@ -16,7 +16,7 @@ export class ApiHandlerService implements IApiBaseActions {
   private getHttpOptions(params?: ParamsType) {
     return {
       params: this.createParams(params),
-      withCredentials: true 
+      withCredentials: false  
     };
   }
   Get(url: string, params?: ParamsType): Observable<IResponse<any>> {
@@ -26,6 +26,7 @@ export class ApiHandlerService implements IApiBaseActions {
   }
 
   GetAll(url: string, params?: ParamsType): Observable<IResponse<any>> {
+     console.log('[ApiHandler] GET', url, params);
     return this.httpClient
       .get<IResponse<any[]>>(url, this.getHttpOptions(params)) 
       .pipe(

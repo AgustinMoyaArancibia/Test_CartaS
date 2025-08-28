@@ -60,7 +60,7 @@ namespace Infrastructure.Repositories
                 .GroupBy(v => v.FechaVenta.Date)
                 .Select(g => new { Fecha = g.Key, Cantidad = g.Count() })
                 .OrderByDescending(x => x.Cantidad)
-                .ThenBy(x => x.Fecha) // desempate por fecha menor
+                .ThenBy(x => x.Fecha) 
                 .FirstOrDefaultAsync(ct);
 
             if (q is null) return (DateTime.MinValue, 0);
